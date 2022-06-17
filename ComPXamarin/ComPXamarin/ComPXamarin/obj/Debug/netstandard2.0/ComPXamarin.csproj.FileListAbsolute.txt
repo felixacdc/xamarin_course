@@ -1,0 +1,17 @@
+C:\Users\Felix Mendez\source\repos\ComPXamarin\ComPXamarin\ComPXamarin\bin\Debug\netstandard2.0\ComPXamarin.deps.json
+C:\Users\Felix Mendez\source\repos\ComPXamarin\ComPXamarin\ComPXamarin\bin\Debug\netstandard2.0\ComPXamarin.dll
+C:\Users\Felix Mendez\source\repos\ComPXamarin\ComPXamarin\ComPXamarin\bin\Debug\netstandard2.0\ComPXamarin.pdb
+C:\Users\Felix Mendez\source\repos\ComPXamarin\ComPXamarin\ComPXamarin\obj\Debug\netstandard2.0\ComPXamarin.csproj.AssemblyReference.cache
+C:\Users\Felix Mendez\source\repos\ComPXamarin\ComPXamarin\ComPXamarin\obj\Debug\netstandard2.0\ComPXamarin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felix Mendez\source\repos\ComPXamarin\ComPXamarin\ComPXamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Felix Mendez\source\repos\ComPXamarin\ComPXamarin\ComPXamarin\obj\Debug\netstandard2.0\Vistas\MenuPrincipal.xaml.g.cs
+C:\Users\Felix Mendez\source\repos\ComPXamarin\ComPXamarin\ComPXamarin\obj\Debug\netstandard2.0\ComPXamarin.AssemblyInfoInputs.cache
+C:\Users\Felix Mendez\source\repos\ComPXamarin\ComPXamarin\ComPXamarin\obj\Debug\netstandard2.0\ComPXamarin.AssemblyInfo.cs
+C:\Users\Felix Mendez\source\repos\ComPXamarin\ComPXamarin\ComPXamarin\obj\Debug\netstandard2.0\ComPXamarin.csproj.CoreCompileInputs.cache
+C:\Users\Felix Mendez\source\repos\ComPXamarin\ComPXamarin\ComPXamarin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Felix Mendez\source\repos\ComPXamarin\ComPXamarin\ComPXamarin\obj\Debug\netstandard2.0\ComPXamarin.dll
+C:\Users\Felix Mendez\source\repos\ComPXamarin\ComPXamarin\ComPXamarin\obj\Debug\netstandard2.0\refint\ComPXamarin.dll
+C:\Users\Felix Mendez\source\repos\ComPXamarin\ComPXamarin\ComPXamarin\obj\Debug\netstandard2.0\ComPXamarin.pdb
+C:\Users\Felix Mendez\source\repos\ComPXamarin\ComPXamarin\ComPXamarin\obj\Debug\netstandard2.0\ref\ComPXamarin.dll
+C:\Users\Felix Mendez\source\repos\ComPXamarin\ComPXamarin\ComPXamarin\obj\Debug\netstandard2.0\Vistas\Tarjetas.xaml.g.cs
+C:\Users\Felix Mendez\source\repos\ComPXamarin\ComPXamarin\ComPXamarin\obj\Debug\netstandard2.0\Vistas\Alertas.xaml.g.cs
